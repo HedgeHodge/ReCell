@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Phones" max_length="40" name="x_623274_recell_phones" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Camera resolution" max_length="40" name="camera_resolution" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Color" max_length="40" name="color" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="mint" label="Condition" mandatory="true" max_length="40" name="condition" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Mint" sequence="0" value="mint"/>
+                <element inactive_on_update="false" label="Very Good" sequence="1" value="very_good"/>
+                <element inactive_on_update="false" label="Good" sequence="2" value="good"/>
+                <element inactive_on_update="false" label="Fair" sequence="3" value="fair"/>
+                <element inactive_on_update="false" label="Parts" sequence="4" value="parts"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Connectivity" max_length="40" name="connectivity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="3G" value="3g"/>
+                <element inactive_on_update="false" label="4G" value="4g"/>
+                <element inactive_on_update="false" label="5G" value="5g"/>
+                <element inactive_on_update="false" label="Bluetooth" value="bluetooth"/>
+                <element inactive_on_update="false" label="GPS" value="gps"/>
+                <element inactive_on_update="false" label="LTE" value="lte"/>
+                <element inactive_on_update="false" label="MagSafe" value="magsafe"/>
+                <element inactive_on_update="false" label="NFC" value="nfc"/>
+                <element inactive_on_update="false" label="USB-C" value="usb_c"/>
+            </choice>
+        </element>
+        <element label="Dual Sim" max_length="40" name="dual_sim" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Manufacturer" mandatory="true" max_length="40" name="manufacturer" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Apple" sequence="0" value="apple"/>
+                <element inactive_on_update="false" label="Google" sequence="1" value="google"/>
+                <element inactive_on_update="false" label="Samsung" sequence="2" value="samsung"/>
+                <element inactive_on_update="false" label="HTC" sequence="3" value="htc"/>
+                <element inactive_on_update="false" label="ASUS" sequence="4" value="asus"/>
+                <element inactive_on_update="false" label="Motorola" sequence="5" value="motorola"/>
+                <element inactive_on_update="false" label="LG" sequence="6" value="lg"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="250" name="notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Operating system" max_length="40" name="operating_system" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Processor" max_length="40" name="processor" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="RAM" max_length="40" name="ram" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1 GB" sequence="0" value="1_gb"/>
+                <element inactive="true" inactive_on_update="true" label="16 GB " sequence="0" value="16_gb"/>
+                <element inactive_on_update="false" label="2 GB" sequence="1" value="2_gb"/>
+                <element inactive_on_update="false" label="3 GB" sequence="2" value="3_gb"/>
+                <element inactive_on_update="false" label="4 GB" sequence="3" value="4_gb"/>
+                <element inactive_on_update="false" label="6 GB" sequence="4" value="6_gb"/>
+                <element inactive_on_update="false" label="8 GB" sequence="5" value="8_gb"/>
+                <element inactive_on_update="false" label="10 GB" sequence="6" value="10_gb"/>
+                <element inactive_on_update="false" label="12 GB" sequence="7" value="12_gb"/>
+            </choice>
+        </element>
+        <element label="Screen Size" max_length="15" name="screen_size" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Storage" max_length="40" name="storage" type="choice">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="128 GB" sequence="0" value="16_gb"/>
+                <element inactive_on_update="false" label="128 GB" sequence="0" value="16_gb"/>
+                <element inactive_on_update="false" label="128 GB" sequence="0" value="16_gb"/>
+                <element inactive_on_update="false" label="128 GB" sequence="1" value="16_gb"/>
+                <element inactive_on_update="false" label="8 GB" sequence="1" value="32_gb"/>
+                <element inactive_on_update="false" label="256 GB" sequence="2" value="256_gb"/>
+                <element inactive_on_update="false" label="512 GB" sequence="3" value="512_gb"/>
+                <element inactive_on_update="false" label="1 TB" sequence="4" value="1_tb"/>
+            </choice>
+        </element>
+        <element label="Unlocked" max_length="40" name="unlocked" type="boolean"/>
+    </element>
+</database>

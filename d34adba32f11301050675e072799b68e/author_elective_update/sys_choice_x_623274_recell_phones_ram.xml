@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="ram" table="x_623274_recell_phones" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>ram</element>
+            <name>x_623274_recell_phones</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_id>765067e72f11301050675e072799b6d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ram</sys_name>
+            <sys_package display_value="ReCell" source="x_623274_recell">d34adba32f11301050675e072799b68e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ReCell">d34adba32f11301050675e072799b68e</sys_scope>
+            <sys_update_name>sys_choice_x_623274_recell_phones_ram</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 16:09:22</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ram</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>16 GB </label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb5067e72f11301050675e072799b6f4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 18:10:01</sys_updated_on>
+            <value>16_gb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ram</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 GB</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa5067e72f11301050675e072799b6d3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 18:10:01</sys_updated_on>
+            <value>1_gb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ram</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 GB</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f5067e72f11301050675e072799b6d6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 18:10:01</sys_updated_on>
+            <value>2_gb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ram</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 GB</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>075067e72f11301050675e072799b6d9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 18:10:01</sys_updated_on>
+            <value>3_gb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ram</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 GB</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f5067e72f11301050675e072799b6db</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 18:10:01</sys_updated_on>
+            <value>4_gb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ram</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6 GB</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb5067e72f11301050675e072799b6ea</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 18:10:01</sys_updated_on>
+            <value>6_gb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ram</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>8 GB</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c35067e72f11301050675e072799b6ed</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 18:10:01</sys_updated_on>
+            <value>8_gb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ram</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>10 GB</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb5067e72f11301050675e072799b6ef</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 18:10:01</sys_updated_on>
+            <value>10_gb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ram</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>12 GB</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c35067e72f11301050675e072799b6f2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 18:10:01</sys_updated_on>
+            <value>12_gb</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

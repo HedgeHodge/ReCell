@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="connectivity" table="x_623274_recell_phones" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>connectivity</element>
+            <name>x_623274_recell_phones</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_id>3e5067e72f11301050675e072799b6b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>connectivity</sys_name>
+            <sys_package display_value="ReCell" source="x_623274_recell">d34adba32f11301050675e072799b68e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ReCell">d34adba32f11301050675e072799b68e</sys_scope>
+            <sys_update_name>sys_choice_x_623274_recell_phones_connectivity</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 16:09:22</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>connectivity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3G</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b25067e72f11301050675e072799b6b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 16:09:22</sys_updated_on>
+            <value>3g</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>connectivity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4G</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f25067e72f11301050675e072799b6b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 16:09:22</sys_updated_on>
+            <value>4g</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>connectivity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5G</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa5067e72f11301050675e072799b6bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 16:09:22</sys_updated_on>
+            <value>5g</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>connectivity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bluetooth</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa5067e72f11301050675e072799b6c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 16:09:22</sys_updated_on>
+            <value>bluetooth</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>connectivity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GPS</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa5067e72f11301050675e072799b6c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 16:09:22</sys_updated_on>
+            <value>gps</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>connectivity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LTE</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f25067e72f11301050675e072799b6c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 16:09:22</sys_updated_on>
+            <value>lte</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>connectivity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MagSafe</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa5067e72f11301050675e072799b6ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 16:09:22</sys_updated_on>
+            <value>magsafe</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>connectivity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NFC</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f25067e72f11301050675e072799b6c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 16:09:22</sys_updated_on>
+            <value>nfc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>connectivity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>USB-C</label>
+            <language>en</language>
+            <name>x_623274_recell_phones</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-18 16:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f25067e72f11301050675e072799b6be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-18 16:09:22</sys_updated_on>
+            <value>usb_c</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

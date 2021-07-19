@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_623274_recell_phones">x_623274_recell_phones</category>
+        <maximum_digits>6</maximum_digits>
+        <number>1000</number>
+        <prefix>PHO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-18 16:09:19</sys_created_on>
+        <sys_id>825027e72f11301050675e072799b6e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PHO</sys_name>
+        <sys_package display_value="ReCell" source="x_623274_recell">d34adba32f11301050675e072799b68e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReCell">d34adba32f11301050675e072799b68e</sys_scope>
+        <sys_update_name>sys_number_825027e72f11301050675e072799b6e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-18 16:09:19</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_623274_recell_phones</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Phones Form Screen">1043676b2f11301050675e072799b657</embedded_screen>
+        <item_view/>
+        <name>Phones master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-18 16:22:02</sys_created_on>
+        <sys_id>1843676b2f11301050675e072799b659</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Phones master_item</sys_name>
+        <sys_package display_value="ReCell" source="x_623274_recell">d34adba32f11301050675e072799b68e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReCell">d34adba32f11301050675e072799b68e</sys_scope>
+        <sys_update_name>sys_sg_master_item_1843676b2f11301050675e072799b659</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-18 16:22:02</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Phones List Screen View Config">84432ba72f11301050675e072799b699</view_config>
+    </sys_sg_master_item>
+</record_update>

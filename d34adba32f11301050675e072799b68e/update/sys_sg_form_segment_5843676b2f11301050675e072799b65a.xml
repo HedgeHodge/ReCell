@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">d843676b2f11301050675e072799b657</embedded_screen>
+        <form display_value="Phones Form Screen">1043676b2f11301050675e072799b657</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-18 16:22:02</sys_created_on>
+        <sys_id>5843676b2f11301050675e072799b65a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ReCell" source="x_623274_recell">d34adba32f11301050675e072799b68e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReCell">d34adba32f11301050675e072799b68e</sys_scope>
+        <sys_update_name>sys_sg_form_segment_5843676b2f11301050675e072799b65a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-18 16:22:02</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>
